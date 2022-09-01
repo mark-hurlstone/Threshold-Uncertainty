@@ -1,0 +1,10 @@
+Each row represents the data for a single participant. The columns are as follows:
+1: Treatment (T1,T2,T3,T4)
+2: Group (1-10)
+3: Player (1-6)
+4: Risk aversion question - How do you see yourself: are you generally a person who is fully prepared to take risks or do you try to avoid taking risks? (0 = completely unwilling to take risks, 10 = very willing to take risks)
+5: Loss aversion question - How well does the following statement describe you as a person? I generally hate to lose something more than I like to gain something. (0 = does not describe me at all, 10 = describes me perfectly)
+6: Fairness question - Please indicate your level of agreement with the following statement: when a group of people must work toward a common goal, it is important that each group member contributes an equal amount of effort. (0 = strongly disagree, 10 = strongly agree)
+7: Trust question - How well does the following statement describe you as a person? As long as I am not convinced otherwise, I assume that people have only the best intentions. (0 = does not describe me at all, 10 = describes me perfectly)
+8: Altruisim question - How willing are you to help others without expecting anything in return? (0 = completely unwilling to help others, 10 = very willing to help others)
+9: Temporal discounting question - How willing are you to give up something today in order to benefit from doing so in the future? (0 = completely unwilling to give up something today, 10 = very willing to give up something today)
